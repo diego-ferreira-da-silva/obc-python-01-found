@@ -25,5 +25,6 @@ gamesReset.remove('Guacamelee!')
 print(gamesReset)
 
 # 6 - Remove todos os itens da lista
+
 gamesList.clear()
 print(gamesList)
