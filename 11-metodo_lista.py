@@ -18,7 +18,7 @@ gamesList.sort()
 #listaJogos.reverse()
 print(gamesList)
 
-# 5 - Copia os itens de uma lista para outra
+# 5 - Copia os itens de uma lista para outra lista
 gamesReset = gamesList.copy()
 gamesReset.remove('Red Dead Redemption 2')
 gamesReset.remove('Guacamelee!')
