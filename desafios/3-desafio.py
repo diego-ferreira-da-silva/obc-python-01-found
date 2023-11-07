@@ -14,7 +14,7 @@ else:
   valorKM = 0.50
   valorViagem = distancia * valorKM
 
-print(f"O valor da viagem será de R${valorViagem} custando R${valorKM} o KM")
+print(f"O valor da viagem será de R${valorViagem:.2f} custando R${valorKM} o KM")
 
 #--------------------------------------------------------------------------------------------------------
 """Aumento salário funcionário
